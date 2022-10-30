@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mccourse:raw_cobalt_block"
+  },
+  "result": "mccourse:cobalt_block",
+  "experience": 6.3,
+  "cookingtime": 100
+}
